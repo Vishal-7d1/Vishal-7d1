@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Yadav
 
-<!--
-**Vishal-7d1/Vishal-7d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Data Scientist | Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🎓 B.Tech CSE Student
+
+🤖 Learning AI, Machine Learning & Deep Learning
+
+💻 Passionate about Software Development
+
+📊 Exploring Data Science & MLOps
+
+🌱 Building Real World Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C++
+- JavaScript
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### AI & Data Science
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Current Focus
+
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Full Stack Development
+- AI Engineering
+
+---
+
+⭐ Always Learning & Building
